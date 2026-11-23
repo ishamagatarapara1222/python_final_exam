@@ -1,0 +1,11 @@
+Date,Product,Category,Price,Quantity_Sold,Total_Sales
+2026-01-01,Notebook,Stationery,50,10,500
+2026-01-02,Pen,Stationery,10,30,300
+2026-01-03,Headphones,Electronics,800,3,2400
+2026-01-04,T-Shirt,Clothing,400,5,2000
+2026-01-05,Notebook,Stationery,50,15,750
+2026-01-06,Mouse,Electronics,500,4,2000
+2026-01-07,Jeans,Clothing,900,2,1800
+2026-01-08,Pen,Stationery,10,40,400
+2026-01-09,Keyboard,Electronics,700,2,1400
+2026-01-10,T-Shirt,Clothing,400,7,2800
